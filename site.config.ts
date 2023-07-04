@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '蓝枫的个人博客',
-  domain: 'https://wanghao4659.notion.site/05d596aaccd64d118a2c583a5b168585?pvs=4',
+  domain: 'https://wanghao4659.notion.site/wanghao4659/05d596aaccd64d118a2c583a5b168585',
   author: '蓝枫',
 
   // open graph metadata (optional)
